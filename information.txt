@@ -1,3 +1,4 @@
 Hola, me llamo Jannet y tengo 31 años.
 Ejercicios comandos básicos git.
 prueba 2
+Actualmente vivo en México
